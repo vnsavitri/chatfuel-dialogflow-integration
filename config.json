@@ -1,7 +1,12 @@
-/* 
-
-  This is a placeholder file. You can generate this file using this page:
-  
-  https://cloud.google.com/docs/authentication/getting-started
-  
- */
+{
+  "type": "service_account",
+  "project_id": "cs-breville",
+  "private_key_id": "f923e05d42ef4e460d986d0e23299da7301ba309",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDX5J8aFudt2T49\nAFsBLttxi7qMaZPSocibT9a39z61SRJ+pPugA2ZbbImfM8s/gaY+ur4ow5Dpj4+c\nB4ZZKwC+mUI+ldGvjZ1tnQvhIZulf1tTqLibRbAJ+yOnARry4HnRUI4d2lA25qW/\nT86kvIMlnAGeg7cr6yHjKJLFnNo79ZzviKmTbBKx5kOBiCf5Hd/HhvVCRWe4VcSO\niJUh7kjaMlBeNo7wms8OE4TT+L+kplVlU/CWGRd0MLRuu1zs1Q2m9PpUBiO4odFE\nMuj+oChW378MnqMnaGJ+m6jwnX7ze3jaRPIll6kpuWbb0nggMl6AUjVpqE7wKTCg\nMlpGpp5DAgMBAAECggEAOnPb3+RzpHo9L6b4/MkDASsjxwCO1WiYN/TV3dlDUTIH\nn+JrfldtTzODz2bmkLs5l6JX+hF5GsOTzlr7NQk/mltEZE2MCEv/Y74xiTLgQV7K\nC0yTLvcfQpSMgpr6AOhmExYMZGjHbxXjqnihKlkf6P7kMVbYMTvoYOiLVJWzQKgv\nzyz79BDgOOTF7zTC9T4/8PkN0lgiE1oCFW0kJQr10DaV6HHha4r/oexkbhXOttk6\nP72gGCnQ468DtRMZD2lS1ZvzL2hBhHNrYuwzGvKD34s4USlBLnGblWSlVrnO0SzK\nhyzoACzGGEcx8RElmZWGj9JLgJNiojN+ol4WaLsRgQKBgQD7TmQ2e7jW6aAtH3B2\nfApAGnjljI/ila6sFiHlJz44ua7IhiOlyEpetFKDmwgmjAznXZnmH+gCvmXpM2WT\nSTBSdLnwWEKUxXo7djNFpmtZjU3iCXg4Gfn9yeUVnFwWt8Xf/88g3nvmqlnQSGml\no5W6yk82wvktHfsVOepGwULf1QKBgQDb7OdY/h9vWWYw30iZkV9+rWMHARt8qNOR\nqzJhO1XhGwaPA5cJ+UZaAPA8KnrqoV8+HgEkO2pt2ZLTBXOXvey4cQlIJWFwS7m1\nVourjTfTX9vZXwBLxzdPIwz8MlWkF8MMNyZrwDrVH2I191FpTOYLR8Ye7VY2hBF4\nkuF1EUGptwKBgH0bT4RYH3LOJ7GO/zvdEHVNOHZ+fXr9rVF6SzF7UdyHg93L+Z8k\nkPGIr7NY0Lvv6NSdomoP5D7Jbo6jyaODQg0qkw51wd+yV+GWPHwmFzcjw2wN7s1v\nEScpBWS2zJl6r4WOIh1o5SG2GLQ5+G4/e+DbqofGlKnDTSYKCPlkaNhpAoGAXcop\nW2V8qHL6xsriXkOF8zMkcT9CpqYlHBFjed3hIQ/yexkv15wMKaQOz8naA6fwQ0Bu\ngjIokFJicEX55vOjOYFTUQZICKjyuOgAxpeCAE34JzqBmM+Lwd8T0ZXxufo8P0Bh\nzT/8lxk8PAGOIZce4B6q2lOjGbq27LHPHqrOUv8CgYBOzM2USLZroTnJyB2Pl2m9\ndma9wJaphXUl+3nDYUU17xarZ8KOe0Zht3C80pBiWshFhd04utz4lIotD5tQ6ix0\nhY0X3vLBg2DwWW4+rtYxIpDNYN+1ZFrJevEGIEGHUV9BWwrmVdJamFQ/4PgQgDlB\nWnz5UIsGQ2H8XmFf+ER93w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cs-brev@cs-breville.iam.gserviceaccount.com",
+  "client_id": "112403030930423947780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cs-brev%40cs-breville.iam.gserviceaccount.com"
+}
